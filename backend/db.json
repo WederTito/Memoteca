@@ -1,0 +1,22 @@
+{
+  "pensamentos": [
+    {
+      "id": 3,
+      "conteudo": "Angular é o melhor",
+      "autoria": "Dev Alura",
+      "modelo": "modelo3"
+    },
+    {
+      "conteudo": "Loyality means everything",
+      "autoria": "MJ 23",
+      "modelo": "modelo1",
+      "id": 4
+    },
+    {
+      "conteudo": "O medo é uma ilusão",
+      "autoria": "MJ 23",
+      "modelo": "modelo2",
+      "id": 5
+    }
+  ]
+}

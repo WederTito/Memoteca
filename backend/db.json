@@ -4,48 +4,56 @@
       "id": 3,
       "conteudo": "Angular é o melhor",
       "autoria": "Dev Alura",
-      "modelo": "modelo3"
+      "modelo": "modelo3",
+      "favorito": true
     },
     {
       "conteudo": "Loyality means everything",
       "autoria": "MJ 23",
       "modelo": "modelo1",
+      "favorito": false,
       "id": 4
     },
     {
       "conteudo": "O medo é uma ilusão",
       "autoria": "MJ 23",
       "modelo": "modelo2",
+      "favorito": true,
       "id": 5
     },
     {
       "conteudo": "  O medo é uma ilusão",
       "autoria": "mj23",
       "modelo": "modelo2",
+      "favorito": true,
       "id": 6
     },
     {
       "id": 7,
       "conteudo": "Weder é lindooo",
       "autoria": "Weder",
-      "modelo": "modelo1"
+      "modelo": "modelo1",
+      "favorito": false
     },
     {
       "conteudo": "Cassia é a mais gata da favela",
       "autoria": "cassia",
       "modelo": "modelo1",
+      "favorito": false,
       "id": 8
     },
     {
       "conteudo": "Adna está doente, mas tito não",
       "autoria": "tito",
       "modelo": "modelo1",
+      "favorito": false,
       "id": 9
     },
     {
       "conteudo": "Bem na hora de buscar a Gata",
       "autoria": "adna",
       "modelo": "modelo1",
+      "favorito": false,
       "id": 10
     }
   ]
